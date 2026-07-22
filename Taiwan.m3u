@@ -129,7 +129,8 @@ https://mqitv.luckyboy.cc.cd/live1072/index.m3u8
 https://mqitv.luckyboy.cc.cd/live1034/index.m3u8
 #EXTINF:-1,海峽衛視HD
 https://mqitv.luckyboy.cc.cd/live1035/index.m3u8
-浙江衛視,https://mqitv.luckyboy.cc.cd/live1036/index.m3u8
+#EXTINF:-1,浙江衛視
+https://mqitv.luckyboy.cc.cd/live1036/index.m3u8
 #EXTINF:-1,東方衛視
 https://mqitv.luckyboy.cc.cd/live1037/index.m3u8
 #EXTINF:-1,湖南衛視
